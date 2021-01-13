@@ -1,4 +1,4 @@
-# ToolShopManager
+# Tool Shop Manager
 A tool shop manager application that manages customers and inventory, developed using MVC architecture. 
 
 ## Some highlights of the application:
@@ -11,18 +11,22 @@ A tool shop manager application that manages customers and inventory, developed 
 ## Screenshots:
 
 Login Screen:
+
 ![Example screenshot](LogIn.JPG)
 
 Inventory Manager:
+
 ![Example screenshot](ToolShopGUI.JPG)
 
 Customer Manager:
+
 ![Example screenshot](CustomerMgmt.JPG)
 
 Database Relational Model:
+
 ![Example screenshot](ToolShopRelationalModel.jpg)
 
-## To run:
+## Running the application:
 
 1) need to add the gson-2.8.6.jar as an referenced library to BOTH and mysql-connector-java-5.1.49-bin.jar as a referenced library to ToolShopServer 
 	(jar files in src folders for both packages).
