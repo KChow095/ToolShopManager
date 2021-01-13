@@ -1,0 +1,6 @@
+-------------------------------
+Order ID: 61864 Date: 2020/12/01
+Item Name: Widgets
+Amount Ordered: 43
+Supplier ID: 8004
+-------------------------------
