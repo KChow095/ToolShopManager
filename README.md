@@ -1,5 +1,5 @@
 # Tool Shop Manager
-A tool shop manager application that manages customers and inventory, developed using MVC architecture. 
+A tool shop manager application that manages customers and inventory.
 
 ## Some highlights of the application:
 
